@@ -17,5 +17,9 @@ git push --set-upstream origin ricomida
 git push
 
 git checkout main
+git checkout calculadora
+git checkout notas
+git checkout ricomida
+
 git stash
 ```
